@@ -1,0 +1,26 @@
+body{
+    background-color:blanchedalmond
+
+}
+.tableau{
+    display: block;
+    margin: auto;
+}
+.header{
+    display: block;
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
+.footer{
+    display: block;
+    position:fixed;
+    bottom: 0px;
+    font-size: medium;
+}
+.mainstuff{
+    position: absolute;
+    top: 250px;
+    color:crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
